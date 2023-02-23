@@ -3,7 +3,7 @@ A suggested defence against adversarial attacks on image recognition employing a
 
 Install Adversarial Robustness Toolbox from here : https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/Get-Started#setup
 
-Download the file "Randomised Spatial Smoothing With Majority Voting.ipynb"
+Download the file "Randomised_Spatial_Smoothing_With_Majority_Voting.ipynb"
 
 Move the downloaded file into the "adversarial-robustness-toolbox/notebooks/" directory.
 
