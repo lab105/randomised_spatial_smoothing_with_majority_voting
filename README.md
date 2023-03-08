@@ -1,5 +1,5 @@
 # randomised_resolution_reduction_with_majority_voting
-A suggested defence against adversarial attacks on image recognition employing an ensemble of classifiers with resolution reduction of randomised intensities.
+A suggested defence against adversarial attacks on image recognition employing majority voting of classifiers with randomized resolution reduction.
 
 Install Adversarial Robustness Toolbox from here : https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/Get-Started#setup
 
