@@ -1,3 +1,4 @@
+import sys, os
 # Install ImageNet stubs:
 !{sys.executable} -m pip install git+https://github.com/nottombrown/imagenet_stubs
 !{sys.executable} -m pip install kaggle
